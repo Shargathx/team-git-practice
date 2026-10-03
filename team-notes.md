@@ -1,1 +1,1 @@
-Team motto: To be decided.
+New team motto: lets rush this fast!
