@@ -1,1 +1,1 @@
-New team motto: No more merge conflicts, EVER!
+New team motto: Choose one: TI exam or merge conflicts?
