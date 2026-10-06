@@ -1,1 +1,1 @@
-New team motto: Choose one: TI exam or merge conflicts?
+New team motto: Choose one: Do not work on main!
