@@ -1,1 +1,1 @@
-New team motto: Choose one: TI exam or merge conflicts?
+New team motto: This should cause a merge conflict?
